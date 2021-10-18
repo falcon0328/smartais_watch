@@ -1,0 +1,2 @@
+# smartais_watch
+SmartAISと連携するM5Stickのプログラム
